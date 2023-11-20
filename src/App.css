@@ -2,7 +2,7 @@
   display: flex; 
   flex-direction: column; 
   align-items: center; 
-  background-color: #711414; 
+  background-color: #91b556; 
   height: 100vh; 
 } 
 
@@ -14,6 +14,6 @@
 h1 { 
   font-size: 27px; 
   margin: 20px 0; 
-  color: #4c4e4b; 
+  color:black; 
 } 
 
